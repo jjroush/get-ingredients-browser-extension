@@ -1,0 +1,10 @@
+{
+  "name": "Get Ingredients",
+  "version": "1.0",
+  "description": "Pull ingredients from your favorite cooking sites.",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
